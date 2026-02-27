@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_galaxia">#010127</color>
+    <color name="bg_sistema">#1A1A1A</color>
+    <color name="bg_planeta">#003366</color>
+    <color name="bg_luna">#4D4D4D</color>
+</resources>
