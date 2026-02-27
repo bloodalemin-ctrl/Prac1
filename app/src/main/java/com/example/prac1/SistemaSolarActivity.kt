@@ -5,15 +5,13 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() {
+class SistemaSolarActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-        val btnIrSistema = findViewById<Button>(R.id.btnIrSistema)
-
-        btnIrSistema.setOnClickListener {
-            val intent = Intent(this, SistemaSolarActivity::class.java)
+        setContentView(R.layout.activity_sistema_solar)
+        val btnIrPlanetas = findViewById<Button>(R.id.btnIrPlanetas)
+        btnIrPlanetas.setOnClickListener {
+            val intent = Intent(this, PlanetasActivity::class.java)
             startActivity(intent)
         }
     }

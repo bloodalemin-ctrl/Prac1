@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Prac1">
         <activity
+            android:name=".LunasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PlanetasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SistemaSolarActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

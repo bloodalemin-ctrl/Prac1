@@ -2,17 +2,16 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bg_galaxia"
-    tools:context=".MainActivity">
+    android:background="#8B0000"
+    tools:context=".PlanetasActivity">
 
     <TextView
-        android:id="@+id/tvTitulo"
+        android:id="@+id/tvTituloPlaneta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="GALAXIA"
+        android:text="PLANETA: MARTE"
         android:textColor="@color/white"
         android:textSize="28sp"
         android:textStyle="bold"
@@ -22,14 +21,14 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btnIrSistema"
+        android:id="@+id/btnIrLunas"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="50dp"
         android:layout_marginTop="40dp"
-        android:text="IR AL SISTEMA SOLAR"
+        android:text="EXPLORAR LUNAS"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tvTitulo" />
+        app:layout_constraintTop_toBottomOf="@id/tvTituloPlaneta" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
