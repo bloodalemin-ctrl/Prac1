@@ -25,5 +25,5 @@ Para probar esta aplicación en tu computadora, sigue estos pasos:
 
 ## Evidencias de Funcionamiento
 ### Menú principal
-
+![SistemaSolar](images/SistemaSolar.jpeg)
 ### Navegación
