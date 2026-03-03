@@ -30,3 +30,7 @@ Para probar esta aplicación en tu computadora, sigue estos pasos:
 ![SS](images/SS.jpeg)
 ![Marte](images/Marte.jpeg)
 ![Lunas](images/Lunas.jpeg)
+
+## Capturas de la Instalacion de Android Studio 
+
+
