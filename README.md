@@ -14,10 +14,16 @@ La aplicación está estructurada en 4 niveles de profundidad. Cada Activity tie
 * Ciclo de Vida al Avanzar: Cuando el usuario avanza a un nivel más profundo (ej. de Galaxia a Sistema Solar), la Activity anterior ejecuta sus métodos `onPause()` y `onStop()`, quedando guardada en la pila de retroceso (Back Stack). Simultáneamente, la nueva Activity se instancia y ejecuta `onCreate()`, `onStart()` y `onResume()` para hacerse visible y activa.
 * Ciclo de Vida al Retroceder: Dado que la jerarquía es lineal, el usuario retrocede utilizando el botón "Atrás" del sistema. Al hacerlo, la Activity actual se destruye (`onPause()`, `onStop()`, `onDestroy()`) y la Activity anterior se recupera del Back Stack, ejecutando `onStart()` y `onResume()`.
 
-##Instrucciones sobre cómo ejecutar la aplicación.
+## Instrucciones de ejecución
+Para probar esta aplicación en tu computadora, sigue estos pasos:
+* Clona este repositorio usando Git: git clone [URL_DE_TU_REPOSITORIO]
+* Abre *Android Studio*.
+* Selecciona File > Open... y elige la carpeta del proyecto.
+* Espera a que *Gradle* termine de sincronizar las dependencias.
+* Inicia un Emulador de Android (AVD) o conecta un dispositivo físico mediante depuración USB.
+* Haz clic en el botón verde *Run 'app'* (o presiona Shift + F10).
 
-##Funcionalidad
+## Evidencias de Funcionamiento
+### Menú principal
 
-###Menú principal
-
-###Navegación
+### Navegación
