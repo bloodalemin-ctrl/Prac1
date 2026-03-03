@@ -9,5 +9,5 @@ Tome capturas de pantalla del IDE mostrando el emulador con la aplicación "Hell
   ![CapturaAle](images/Alejandra.png)
 
   * María Guadalupe Hernandez Alvirde
-  ![CapturaLupita](images/Lupita1.png)
-  ![CapturaLupita2](images/Lupita2.png)
+  ![Lupita](images/Lupita1.png)
+  ![Lupita2](images/Lupita2.png)
