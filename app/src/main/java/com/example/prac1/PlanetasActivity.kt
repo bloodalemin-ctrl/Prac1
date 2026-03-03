@@ -9,10 +9,19 @@ class PlanetasActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_planetas)
+
         val btnIrLunas = findViewById<Button>(R.id.btnIrLunas)
+        val btnRegresar = findViewById<Button>(R.id.btnRegresar)
+
+        // Ir a la siguiente pantalla
         btnIrLunas.setOnClickListener {
             val intent = Intent(this, LunasActivity::class.java)
             startActivity(intent)
+        }
+
+        // Regresar a SistemaSolarActivity
+        btnRegresar.setOnClickListener {
+            finish()
         }
     }
 }
