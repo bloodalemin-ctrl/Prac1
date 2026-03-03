@@ -27,3 +27,6 @@ Para probar esta aplicación en tu computadora, sigue estos pasos:
 ### Menú principal
 ![SistemaSolar](images/SistemaSolar.jpeg)
 ### Navegación
+![SS](images/SS.jpeg)
+![Marte](images/Marte.jpeg)
+![Lunas](images/Lunas.jpeg)
