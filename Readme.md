@@ -6,8 +6,11 @@
 ### Evidencias:
 Tome capturas de pantalla del IDE mostrando el emulador con la aplicación "Hello Android" ejecutándose correctamente.
 * Alejandra Benítez Leonardo
-  ![CapturaAle](images/Alejandra.png)
+  ![Alejandra](images/Alejandra.png)
 
   * María Guadalupe Hernandez Alvirde
-  ![Lupita](images/Lupita1.png)
+  ![Lupita1](images/Lupita1.png)
   ![Lupita2](images/Lupita2.png)
+
+* Xiadani
+  ![Xiadani](images/Xiadani.png)
