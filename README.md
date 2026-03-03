@@ -27,4 +27,8 @@ Para probar esta aplicación en tu computadora, sigue estos pasos:
 ### Menú principal
 
 
+<img width="374" height="806" alt="Screenshot 2026-03-02 222536" src="https://github.com/user-attachments/assets/d909a1dc-094d-427f-b466-1b2c2d9cc7a1" />
 
+<img width="366" height="822" alt="Screenshot 2026-03-02 222553" src="https://github.com/user-attachments/assets/3a95ffcc-86ff-41aa-a99b-4c5389d55376" />
+<img width="382" height="829" alt="Screenshot 2026-03-02 222610" src="https://github.com/user-attachments/assets/ae615a2a-59b1-4065-b38c-290cd57e3475" />
+<img width="360" height="800" alt="Screenshot 2026-03-02 222628" src="https://github.com/user-attachments/assets/0bbc2c6a-e47b-4084-9a16-4eee39668ff3" />
