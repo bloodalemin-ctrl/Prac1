@@ -25,16 +25,6 @@ Para probar esta aplicación en tu computadora, sigue estos pasos:
 
 ## Evidencias de Funcionamiento
 ### Menú principal
-![SistemaSolar](<img width="374" height="806" alt="image" src="https://github.com/user-attachments/assets/c0dde974-b335-468a-8576-b1e06263c38d" />
-)
-### Navegación
-![SS](<img width="44" height="100" alt="image" src="https://github.com/user-attachments/assets/e9b2694e-20b8-4e9d-a997-c709ff2dca8b" />
-)
-![Marte](<img width="382" height="829" alt="image" src="https://github.com/user-attachments/assets/867e8cee-f736-44bb-950b-0ebf0519fd9e" />
-)
-![Lunas](<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/fb13e2b2-a0a3-4f60-bafb-052b38b8b62a" />
-)
 
-## Capturas de la Instalacion de Android Studio 
 
 
